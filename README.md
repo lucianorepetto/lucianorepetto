@@ -14,6 +14,9 @@ I like experimenting with new technologies, building small projects.
 
 ## Languages I use
 
+> **Note**
+>  This list is not all-inclusive, rather a set of skills that I’ve acquired and am confident in.
+
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -56,14 +59,7 @@ I like experimenting with new technologies, building small projects.
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 
-<br />
-<br />
 
-<p align="center">
-> **Note**
->  This list is not all-inclusive, rather a set of skills that I’ve acquired and am confident in.
-
-</p>
 <br />
 <br />
 
