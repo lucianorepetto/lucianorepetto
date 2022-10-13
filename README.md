@@ -59,6 +59,7 @@ I like experimenting with new technologies, building small projects.
 <br />
 <br />
 
+*
 > **Note**
 >  This list is not all-inclusive, rather a set of skills that I’ve acquired and am confident in.
 
