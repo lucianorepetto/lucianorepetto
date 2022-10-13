@@ -63,8 +63,8 @@ I like experimenting with new technologies, building small projects.
 <br />
 <br />
 
-<p align="center" style="float: left">
-  <img style="float: left" src="https://github-readme-stats.vercel.app/api?username=LucianoRepetto&show_icons=true&hide_border=true&theme=github_dark" title="" alt="Luciano's GitHub Stats" />
-  <img style="float: left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoRepetto&layout=compact&show_icons=true&hide_border=true&theme=github_dark" title="" alt="Top Langs" />
+<p align="center" align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LucianoRepetto&show_icons=true&hide_border=true&theme=github_dark" title="" alt="Luciano's GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoRepetto&layout=compact&show_icons=true&hide_border=true&theme=github_dark" title="" alt="Top Langs" />
 </p>
 
