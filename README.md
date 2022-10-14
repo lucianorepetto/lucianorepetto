@@ -10,7 +10,7 @@ I like experimenting with new technologies, building small projects.
 
 - On [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/lucianorepetto) 💼
 - Feel free to [reach out](mailto:lucianorepetto07@gmail.com) if you want to chat or collaborate on something! 📫
-- 🚀 [Website](https://lucianorepetto.dev/)
+- 🚀 <a href="https://lucianorepetto.dev/" target="_blank" rel="noopener" >Website</a>
 
 ## Languages I use
 
