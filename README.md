@@ -34,11 +34,11 @@ I like experimenting with new technologies, building small projects.
 <img align="left" title="MySQL" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" title="Firebase" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" title="Python" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" title="PHP" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img title="PHP" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <br />
 <br />
 
-## Improving my skills in (or Later)
+## Improving my skills in
 
 <img align="left" title="Sass" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" title="Vue" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
@@ -60,12 +60,4 @@ I like experimenting with new technologies, building small projects.
 <img align="left" title="C#" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" title="TensorFlow" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/>
 
-<br>
-<br>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucianoRepetto&show_icons=true&hide_border=true&theme=github_dark" title="" alt="Luciano's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoRepetto&layout=compact&show_icons=true&hide_border=true&theme=github_dark" title="" alt="Top Langs" />
-</p>
 
