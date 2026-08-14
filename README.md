@@ -1,60 +1,118 @@
-# Hi, I'm Luciano Repetto 👋🏼👨🏻‍💻
+# Hi, I'm Luciano Repetto 👋🏼
 
-I'm a Full stack dev who is passionate about contributing to open-source. I have experience working with different technologies and frameworks such as: React, React Native, Node.js, Express, MongoDB, SQL, HTML, CSS, JavaScript, TypeScript, AWS, Firebase, and more. 
-I like experimenting with new technologies, building small projects.
+### Software Developer
+**Full Stack · Databases · Automation**
 
-💼 [More About Me](https://lucianorepetto.dev/#/resume)
+I build and maintain software used in real production environments, working across frontend, backend, databases, automation and infrastructure.
 
+My experience includes web applications with React, backend services and integrations, Oracle SQL/PLSQL, automation with Python and Node.js, Firebase, deployment and systems that connect cloud services with local infrastructure.
 
-## Find me around the web 🌎: 
+Currently, I work on software, databases and production systems for the **Government of Córdoba**.
 
-- On [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/lucianorepetto) 💼
-- Feel free to [reach out](mailto:lucianorepetto07@gmail.com) if you want to chat or collaborate on something! 📫
-- 🚀 [Website](https://lucianorepetto.dev/)
+I'm also co-founder and responsible for the technology behind **Adimensional3D**, where I designed and developed the e-commerce platform and the internal systems used to manage and automate the operation.
 
-## Languages I use
+---
 
-> **Note**
->  This list is not all-inclusive, rather a set of skills that I’ve acquired and am confident in.
+## Selected work
 
-<img align="left" title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" title="CSS3" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" title="Java" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
-<img align="left" title="React" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" title="TypeScript" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" title="NodeJS" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" title="Git" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" title="GitHub" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" />
-<img align="left" title="Markdown" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
-<img align="left" title="Terminal" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" title="JSON" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
-<img align="left" title="Bash" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
-<img align="left" title="Android" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png" />
-<img align="left" title="MySQL" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" title="Firebase" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" title="Python" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img title="PHP" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+### 🟢 Adimensional3D
+**Private commercial project**
 
-## Improving my skills in
+Custom e-commerce platform and operational ecosystem built for a real 3D printing business.
 
-<img align="left" title="Sass" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" title="Vue" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" title="MongoDB" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" title="Docker" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" title=Graphql" alt="Graphql" width="26px" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" />
-<img align="left" title="Swift" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
-<img align="left" title="Dart" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-<img align="left" title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" title="PostgreSQL" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" title="flutter" alt="flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" title="Material Design" alt="Material Design" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png" />
-<img align="left" title="Google Cloud Platform" alt="Google Cloud Platform" width="26px" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" />
-<img align="left" title="AWS" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" title="Azure" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" />
-<img align="left" title="Ruby" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
-<img align="left" title="C" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" title="C++" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
-<img align="left" title="C#" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img title="TensorFlow" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/>
+I developed the technology used across:
 
+- E-commerce and checkout
+- Payments and integrations
+- Orders and customers
+- Inventory and stock
+- Production workflows
+- Shipping and logistics
+- Internal automation
+
+**5,000+ sales · 10,000+ monthly visits**
+
+🌐 https://www.adimensional3d.com/
+
+---
+
+### 🟢 adim-cloud
+**Private internal project**
+
+Internal operations platform developed for Adimensional3D.
+
+It connects the business operation with production infrastructure through a hybrid **LAN / cloud architecture**, allowing the system to coordinate orders, production, inventory, resources and machines.
+
+The platform was designed to keep the operation responsive during connectivity interruptions and synchronize changes when services become available again.
+
+**Main technologies**
+
+`React` · `Node.js` · `Python` · `Firebase` · `LAN / Cloud`
+
+> Source code is private because this system is actively used in the business.
+
+---
+
+### 🟢 GUT
+Institutional web application developed to standardize and manage procedure information through guided workflows, validations and document generation.
+
+Built from scratch as a React application and used in a real organizational environment.
+
+**Main technologies**
+
+`React` · `JavaScript` · `Vite`
+
+---
+
+### 🟢 Stackly
+Personal software project currently under development.
+
+**Repository and additional technical information coming soon.**
+
+---
+
+## Tech stack
+
+### Frontend
+
+`React` · `TypeScript` · `JavaScript` · `Material UI` · `HTML` · `CSS` · `PWA`
+
+### Backend & Automation
+
+`Node.js` · `Python` · `REST APIs` · `Webhooks` · `Google Apps Script`
+
+### Databases
+
+`Oracle Database` · `SQL` · `PL/SQL` · `Firebase`
+
+### Infrastructure & Tools
+
+`Git` · `GitHub` · `Docker` · `IIS` · `LAN / Cloud`
+
+---
+
+## What I work on
+
+- Full Stack Development
+- Business and operational systems
+- Database development
+- Process automation
+- System integrations
+- Production environments
+- LAN / cloud architectures
+
+---
+
+## Links
+
+🌐 **Portfolio**  
+https://luciano-repetto.web.app
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/lucianorepetto
+
+📫 **Email**  
+lucianorepetto07@gmail.com
+
+🌐 **Adimensional3D**  
+https://www.adimensional3d.com/
