@@ -54,6 +54,7 @@ The platform was designed to keep the operation responsive during connectivity i
 ---
 
 ### 🟢 GUT
+
 Institutional web application developed to standardize and manage procedure information through guided workflows, validations and document generation.
 
 Built from scratch as a React application and used in a real organizational environment.
@@ -62,12 +63,22 @@ Built from scratch as a React application and used in a real organizational envi
 
 `React` · `JavaScript` · `Vite`
 
+🔗 **Repository:**  
+https://github.com/lucianorepetto/FormularioGUT
+
+🌐 **Live demo / production:**  
+https://gut-formulario.cba.gov.ar
+
 ---
 
 ### 🟢 Stackly
-Personal software project currently under development.
 
-**Repository and additional technical information coming soon.**
+Personal task-management application focused on keeping work and tasks organized and up to date.
+
+🌐 **[Live demo](https://todo-dash-8a046.web.app/demo)**
+
+**Repository:**  
+Coming soon.
 
 ---
 
@@ -114,5 +125,3 @@ https://www.linkedin.com/in/lucianorepetto
 📫 **Email**  
 lucianorepetto07@gmail.com
 
-🌐 **Adimensional3D**  
-https://www.adimensional3d.com/
